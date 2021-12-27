@@ -4,7 +4,7 @@ import './mycontact.css'
 const Mycontact = () => {
     return (
         <div>
-            
+            My Contact
         </div>
     )
 }
