@@ -1,9 +1,6 @@
-* {
-    box-sizing: border-box;
-    padding: 0;
+.changing-page   {
+    position: relative;
     margin: 0;
-    scroll-behavior: smooth;
-    
+    left: 78px;
+    padding: 57px 0 78px 0
 }
-
-

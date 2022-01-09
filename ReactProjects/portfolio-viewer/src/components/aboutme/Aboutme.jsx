@@ -1,10 +1,13 @@
 import React from 'react'
 import './aboutme.css'
 
+
+
 const Aboutme = () => {
     return (
         <div>
-            About Me
+            
+            About me
         </div>
     )
 }

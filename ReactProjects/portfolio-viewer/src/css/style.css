@@ -552,11 +552,12 @@ body.push-side #ascrail2000-hr {
 	position: absolute;
 	width: 100%;
 	top: 0;
-	left: 0;
+	left: 78px;
 	overflow: hidden;
-	padding: 27px 45px;
-	z-index: 999;
-	background: #fff;
+	padding: 10px 0 10px 0;
+	z-index: 1;
+	background: rgb(2,0,36);
+	background: linear-gradient(27deg, rgba(2,0,36,1) 0%, rgba(66,44,77,0.7035189075630253) 35%, rgba(0,212,255,1) 100%);
 	-webkit-transform: translateX(0);
 	transform: translateX(0);
 	-webkit-transition: all 0.4s;
@@ -576,6 +577,7 @@ body.push-side #ascrail2000-hr {
 
 .header-social {
 	float: right;
+	
 }
 
 .header-social a {
@@ -677,7 +679,7 @@ body.push-side #ascrail2000-hr {
 	color: rgba(130, 130, 130, 0.29);
 	position: fixed;
 	height: 80px;
-	width: 614px;
+	width: 100%;
 	left: 0;
 	bottom: 0;
 	background: #fff;
